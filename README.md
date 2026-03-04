@@ -10,6 +10,9 @@ Analizar indicadores clave de ventas, identificar productos estratégicos, evalu
 
 El análisis contempla la evaluación del desempeño comercial mediante indicadores clave de ventas, evolución mensual, comportamiento por producto y sucursal, así como la segmentación de clientes con y sin membresía. Asimismo, se identifican patrones de consumo y oportunidades estratégicas para optimizar la rentabilidad.
 
+##  Resumen general del análisis
+<img width="1214" height="2000" alt="Resumen" src="https://github.com/user-attachments/assets/5da2f414-1421-4cb5-9a5a-b67cda067517" />
+
 ##  Herramientas utilizadas
 
 - Power BI  
@@ -27,6 +30,7 @@ El análisis contempla la evaluación del desempeño comercial mediante indicado
 Los datos utilizados en este reporte son completamente ficticios y fueron creados con fines educativos y demostrativos. No representan información real de Starbucks ni de ninguna otra empresa.
 
 ---
+
 
 **Autora:** Fanny Aguila Tlecuitl  
 Analista de Datos Junior
